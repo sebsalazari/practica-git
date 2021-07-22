@@ -1,6 +1,6 @@
-# Practica 01
+# Practica 01 - GIT
 
 <h1>Integrantes </h1>
 <p>Wilmer ricardo pachon</p>
-Content
-Example 000000.1
+<p>Sebastian Salazar</p>
+
